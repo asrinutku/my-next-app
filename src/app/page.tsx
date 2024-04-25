@@ -10,7 +10,8 @@ export default function Home() {
       </div>
       <h1 className="max-w-4xl font-bold text-5xl  md:text-6xl lg:text-7xl">
         Dosyanızla saniyeler içerisinde
-        <span className="text-blue-600"> sohbet </span>edin
+        <span className="text-blue-600"> 
+        sohbet </span>edin
       </h1>
       <p className="mt-7 max-w-prose text-zinc-700 sm:text-lg">
         Reina yükleyeceğiniz herhangi bir PDF dosyası ile sohbet etmenizi
